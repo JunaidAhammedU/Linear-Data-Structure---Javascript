@@ -82,3 +82,6 @@ console.log(doublyList.search(20)); // Output: 20
 
 // Displaying the values in the list
 doublyList.display();
+
+
+// JunaidAhammedU - https://github.com/JunaidAhammedU
