@@ -21,8 +21,8 @@ class Queue {
     } else {
       this.rear.next = node;
       this.rear = node;
-      this.size++;
     }
+    this.size++;
   }
 
   // removing an element fron the queue
